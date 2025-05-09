@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 
 ![Visitors](https://komarev.com/ghpvc/?username=harsh8118&style=flat-square&color=0e75b6)
 
-[![GitHub followers](https://img.shields.io/github/followers/harsh8118?label=Follow&style=social)](https://github.com/Harsh8118-ai)
+[![GitHub followers](https://img.shields.io/github/followers/Harsh8118-ai?label=Follow&style=social)](https://github.com/Harsh8118-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh8118/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23f4f4f4.svg?&logo=vercel&logoColor=black)](https://harsh-tyagi.netlify.app/)
 
@@ -56,7 +56,7 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 ## 📫 Let's Connect!
 
 - 📧 Email: **tyagih7654321@gmail.com**  
-- 🌐 Portfolio: [https://harsh-tyagi-portfolio.vercel.app/](https://harsh-tyagi.netlify.app/)  
+- 🌐 Portfolio: [https://harsh-tyagi.netlify.app/](https://harsh-tyagi.netlify.app/)  
 - 💼 LinkedIn: [linkedin.com/in/harsh8118](https://www.linkedin.com/in/harsh8118/)
 
 ---
