@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 
 ![Visitors](https://komarev.com/ghpvc/?username=harsh8118&style=flat-square&color=0e75b6)
 
-[![GitHub followers](https://img.shields.io/github/followers/harsh8118?label=Follow&style=social)](https://github.com/harsh8118)
+[![GitHub followers](https://img.shields.io/github/followers/harsh8118?label=Follow&style=social)](https://github.com/Harsh8118-ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh8118/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23f4f4f4.svg?&logo=vercel&logoColor=black)](https://harsh-tyagi.netlify.app/)
 
@@ -48,8 +48,8 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsh8118&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh8118&layout=compact&theme=tokyonight)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh8118-ai&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh8118-ai&layout=compact&theme=tokyonight)
 
 ---
 
