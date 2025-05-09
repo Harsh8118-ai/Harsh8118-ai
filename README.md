@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 
 [![GitHub followers](https://img.shields.io/github/followers/harsh8118?label=Follow&style=social)](https://github.com/harsh8118)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh8118/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23f4f4f4.svg?&logo=vercel&logoColor=black)](https://harsh-tyagi-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23f4f4f4.svg?&logo=vercel&logoColor=black)](https://harsh-tyagi.netlify.app/)
 
 ---
 
@@ -56,7 +56,7 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 ## 📫 Let's Connect!
 
 - 📧 Email: **tyagih7654321@gmail.com**  
-- 🌐 Portfolio: [https://harsh-tyagi-portfolio.vercel.app/](https://harsh-tyagi-portfolio.vercel.app/)  
+- 🌐 Portfolio: [https://harsh-tyagi-portfolio.vercel.app/](https://harsh-tyagi.netlify.app/)  
 - 💼 LinkedIn: [linkedin.com/in/harsh8118](https://www.linkedin.com/in/harsh8118/)
 
 ---
