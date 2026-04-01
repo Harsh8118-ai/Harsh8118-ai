@@ -61,4 +61,4 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 
 ---
 
-Thanks for visiting my profile — let’s build something amazing together! 🚀
+Thanks for visiting my profile - let’s build something amazing together! 🚀
