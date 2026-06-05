@@ -48,8 +48,6 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh8118-ai&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh8118-ai&layout=compact&theme=tokyonight)
 
 ---
 
