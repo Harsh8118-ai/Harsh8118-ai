@@ -47,11 +47,6 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 
 ---
 
-## 📊 GitHub Stats
-
-
----
-
 ## 📫 Let's Connect!
 
 - 📧 Email: **tyagih7654321@gmail.com**  
