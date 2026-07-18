@@ -21,12 +21,6 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 
 ---
 
-## 💼 Currently Building
-🛠 **Silken Glamour** – A premium home salon service platform blending beauty & tech for a seamless booking experience.
-
-
----
-
 ## 🔧 Tech Stack
 
 **Frontend**  
