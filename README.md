@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 - 🔹 Create responsive, accessible UIs with **HTML**, **CSS**, **JavaScript (ES6+)**, and **Tailwind CSS**
 - 🔹 Architect and manage **RESTful APIs** and databases like **MongoDB**, **Firebase**, and **MySQL**
 - 🔹 Optimize performance, fix bottlenecks, and enhance application **security**
-- 🔹 Use **Git**, **GitHub**, and **cloud services** for smooth deployments and CI/CD
+- 🔹 Use **Git**, **GitHub**, and **Cloud Services** for smooth deployments and CI/CD
 
 ---
 
