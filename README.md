@@ -37,7 +37,7 @@ I'm a passionate Full Stack Developer focused on building fast, scalable, and vi
 ## 🌱 Currently Learning
 - 📱 **React Native** for cross-platform mobile apps  
 - 🧠 **AI/ML Fundamentals** & **Neural Networks**  
-- 📊 Advanced **App State Management** & **Performance Optimization**
+- 📊 Advanced **App State Management** & **Performance Optimization**  
 
 ---
 
