@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harsh Tyagi    
 
-🚀 **Full Stack Developer | Programmer | Web Performance Enthusiast | Problem Solver**
+🚀 **Full Stack Developer | Programmer | Web Performance Enthusiast | Problem Solver**  
 
 I'm a passionate Full Stack Developer focused on building fast, scalable and visually stunning web applications using modern technologies. I love transforming ideas into powerful digital products that create real-world impact.
 
