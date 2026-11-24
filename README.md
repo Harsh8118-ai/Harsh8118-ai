@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | Programmer | Web Performance Enthusiast | Problem Solver**  
 
-I'm a passionate Full Stack Developer focused on building fast, scalable and visually stunning web applications using modern technologies. I love transforming ideas into powerful digital products that create real-world impact.
+I'm a passionate Full Stack Developer focused on building fast, scalable and visually stunning web applications using modern technologies. I love transforming ideas into powerful digital products that create real-world impact.  
 
 ![Visitors](https://komarev.com/ghpvc/?username=harsh8118&style=flat-square&color=0e75b6)
 
